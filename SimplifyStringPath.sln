@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyStringPath", "SimplifyStringPath\SimplifyStringPath.csproj", "{10CCD1CE-6DD6-4EC4-A14A-DC47966F9CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyStringPath.Tests", "SimplifyStringPath.Tests\SimplifyStringPath.Tests.csproj", "{C510FE44-89FA-4369-B373-D9379EE2DCF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CCD1CE-6DD6-4EC4-A14A-DC47966F9CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CCD1CE-6DD6-4EC4-A14A-DC47966F9CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CCD1CE-6DD6-4EC4-A14A-DC47966F9CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CCD1CE-6DD6-4EC4-A14A-DC47966F9CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C510FE44-89FA-4369-B373-D9379EE2DCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C510FE44-89FA-4369-B373-D9379EE2DCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C510FE44-89FA-4369-B373-D9379EE2DCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C510FE44-89FA-4369-B373-D9379EE2DCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A003E454-A90B-44B4-9AE2-1B5120B22913}
+	EndGlobalSection
+EndGlobal
